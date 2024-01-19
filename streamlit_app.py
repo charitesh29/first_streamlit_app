@@ -1,1 +1,3 @@
-created the main python file
+import streamlit
+
+streamlit.title('Welcome to the snowflake streamlit')
